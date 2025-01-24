@@ -14,7 +14,7 @@ Classify customer reviews into three sentiment categories: **positive**, **negat
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/MrunalRD/EDUNET.git
+https://github.com/MrunalRD/EDUNET.git
  ```
 
 2. Install dependencies:  

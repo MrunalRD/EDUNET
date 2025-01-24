@@ -36,3 +36,6 @@ The model successfully classifies reviews into positive, negative, and neutral s
 ## Conclusion
 This project demonstrates sentiment analysis on customer reviews, offering insights into consumer feedback.
 
+##License
+MIT License.
+
